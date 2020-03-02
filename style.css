@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#app{
+    width: 500px;
+    height: 500px;
+    border: 2px solid;
+    text-align: center;
+    margin: 7% 0% 0% 30%;
+    background-color: rgba(156, 27, 27, 0.808);
+}
+label{
+    font-size: 22px;
+    color: white;
+    margin-top: 30px;
+}
+.calc{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+}
+#cop{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#int{
+    font-size: 23px;
+    color: white;
+}
